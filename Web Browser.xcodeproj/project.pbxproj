@@ -12,6 +12,7 @@
 		140F265B1C2DFDF300C0764E /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 140F26591C2DFDF300C0764E /* Main.storyboard */; };
 		140F265D1C2DFDF300C0764E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 140F265C1C2DFDF300C0764E /* Assets.xcassets */; };
 		140F26601C2DFDF400C0764E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 140F265E1C2DFDF400C0764E /* LaunchScreen.storyboard */; };
+		14DAA8211C2F3569003330F4 /* Default-568h@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 14DAA8201C2F3569003330F4 /* Default-568h@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		140F265C1C2DFDF300C0764E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		140F265F1C2DFDF400C0764E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		140F26611C2DFDF400C0764E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		14DAA8201C2F3569003330F4 /* Default-568h@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Default-568h@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +40,7 @@
 		140F26491C2DFDF200C0764E = {
 			isa = PBXGroup;
 			children = (
+				14DAA8201C2F3569003330F4 /* Default-568h@2x.png */,
 				140F26541C2DFDF300C0764E /* Web Browser */,
 				140F26531C2DFDF300C0764E /* Products */,
 			);
@@ -123,6 +126,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				140F26601C2DFDF400C0764E /* LaunchScreen.storyboard in Resources */,
+				14DAA8211C2F3569003330F4 /* Default-568h@2x.png in Resources */,
 				140F265D1C2DFDF300C0764E /* Assets.xcassets in Resources */,
 				140F265B1C2DFDF300C0764E /* Main.storyboard in Resources */,
 			);
@@ -284,6 +288,7 @@
 				140F26661C2DFDF400C0764E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
